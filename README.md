@@ -13,4 +13,4 @@ This repository contains my master’s thesis.
 **Year:** 2026  
 
 Thesis
-[View the thesis PDF](Master's_Thesis_Dila_Nur_Bulanik.pdf)
+[View the thesis PDF](Thesis_Dila_Nur_Bulanik.pdf)
